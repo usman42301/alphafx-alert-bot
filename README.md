@@ -1,2 +1,3 @@
-# alphafx-alert-bot
-TradingView Email Alert Bot (Gmail to Client Emails)
+# AlphaFX Alert Bot
+
+This bot reads TradingView alerts from Gmail and forwards them to subscribed clients via email.
